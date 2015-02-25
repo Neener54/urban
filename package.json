@@ -16,6 +16,6 @@
     "urban": "./bin/urban"
   },
   "dependencies": {
-    "commander": "0.3.0"
+    "commander": ">0.3.0"
   }
 }
